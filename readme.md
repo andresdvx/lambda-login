@@ -22,9 +22,9 @@ Credenciales válidas, login exitoso.
 
 ```json
 {
-  "message": "Credenciales inválidas"
+  "message": "Login exitoso",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 }
-
 ```
 
 # Despliegue
